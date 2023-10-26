@@ -6,7 +6,7 @@ subtitle: PhD candidate • Information Sciences• University of Illinois-Urban
 
 profile:
   align: right
-  image: headshot_.jpeg
+  image: 
   image_circular: true # crops the image to make it circular
   more_info: #>
     #<p>555 your office number</p>
