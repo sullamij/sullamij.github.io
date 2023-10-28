@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate • Information Sciences• University of Illinois-Urbana Champaign
+subtitle: PhD candidate • University of Illinois-Urbana Champaign
 
 profile:
   align: right
-  image: 
+  image: headshot.png
   image_circular: true # crops the image to make it circular
   more_info: #>
     #<p>555 your office number</p>
@@ -18,7 +18,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Hi! I am a Ph.D. student in the Department of Information Sciences at the University of Illinois-Urbana Champaign. My research interests lie in ensuring the safe use of language models by identifying and mitigating bias and stereotypes. I'm interested in exploring the commonsense ability of language models and examining the moral and cognitive foundations of these models.
+Hi! I am a Ph.D. student in the Department of Information Sciences at the University of Illinois-Urbana Champaign. My research interests lie in ensuring the safety of language models. Also, I'm enthusiastic about delving into the connections between language models and the insights from cognitive science and psychology.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
