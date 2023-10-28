@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-Oct-21
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+The paper "🗺️ Stereomap: Quantifying the Awareness of Human-like Stereotypes in Large Language Models" got accepted to EMNLP 2023!
