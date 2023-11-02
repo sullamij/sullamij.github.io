@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate • University of Illinois-Urbana Champaign
+subtitle: PhD student • University of Illinois-Urbana Champaign
 
 profile:
   align: right
