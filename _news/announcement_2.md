@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to announce that I have been supported by OpenAI as an Researcher Access Program!😆
+Excited to announce that my research is supported by OpenAI as a Researcher Access Program!😆
