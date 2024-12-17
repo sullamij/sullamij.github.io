@@ -6,7 +6,7 @@ subtitle: PhD student • University of Illinois-Urbana Champaign
 
 profile:
   align: right
-  image:   
+  image:   profile12022024.jpeg
   image_circular: false # crops the image to make it circular
   more_info: #>
     #<p>555 your office number</p>
