@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 \
 \
 \
-\
+
          
 Hi! I'm Sullam! I'm currently a Ph.D. student in the Department of Information Sciences at the University of Illinois-Urbana Champaign. 
 
