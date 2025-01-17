@@ -21,8 +21,6 @@ social: false  # includes social icons at the bottom of the page
 \
 \
 \
-
-         
 Hi! I'm Sullam! I'm currently a Ph.D. student in the Department of Information Sciences at the University of Illinois-Urbana Champaign. 
 
 I'm broadly interested in the safety of language models. Specifically, my work focuses on identifying and mitigating harms, such as bias and stereotypes, encoded in LLMs. I'm also enthusiastic about leveraging LLMs in social sciences, bridging the gaps between language models and the insights from cognitive science and psychology.
