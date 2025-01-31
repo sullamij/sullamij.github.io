@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper **Adaptive Video Understanding Agent: Enhancing efficiency with dynamic frame sampling and feedback-driven reasoning** is accepted Oral @NeurIPS MAR workshop 
+🎉 **[Adaptive Video Understanding Agent: Enhancing efficiency with dynamic frame sampling and feedback-driven reasoning](https://arxiv.org/abs/2410.20252)** is accepted **Oral @NeurIPS MAR** workshop 
