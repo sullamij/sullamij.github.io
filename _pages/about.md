@@ -6,7 +6,7 @@ subtitle: PhD student • University of Illinois-Urbana Champaign
 
 profile:
   align: right
-  image:  my-notion-face-portrait.png
+  image:  yosemite_ghibli.png
   image_circular: true # crops the image to make it circular
   more_info: #>
     #<p>555 your office number</p>
